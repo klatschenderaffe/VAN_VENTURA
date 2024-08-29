@@ -38,6 +38,8 @@ const Contact = () => {
             <div className="contact-col">
                 <h3>Du hast einen schönen Platz gefunden?</h3>
                 <p>Dann senden Ihn uns doch gerne. Wir prüfen Ihn, geben dir dann Rückmeldung und nehmen ihn anschließend mit in unsere Sammlung auf.</p>
+                <h4>Helfe uns die schönsten <br />
+                Platze der Welt zu finden.</h4>
 
             </div>
             <div className="contact-col">

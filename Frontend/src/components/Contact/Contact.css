@@ -17,6 +17,13 @@
 
 }
 
+.contact-col h4 {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
 .contact-col p {
     max-width: 450px;
     list-style: 0.3;

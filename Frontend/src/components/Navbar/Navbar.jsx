@@ -31,7 +31,7 @@ const Navbar = () => {
                 to(wohin) smooth(ob es smooth scrollen soll) offset(Das Ziel ein kleines bisschen verschieben) und duration (wie lange soll es scrollen)*/}
                 <li><Link to='hero' smooth={true} offset={0} duration={500}>Home</Link></li>
                 <li><Link to='map' smooth={true} offset={-280} duration={500}>Stellplatzsuche</Link></li>
-                <li><Link to='laender' smooth={true} offset={-290} duration={500}>Länderregeln</Link></li>
+                <li><Link to='definitionen' smooth={true} offset={-320} duration={500}>Länderregeln</Link></li>
             </ul>
             <img src={Menue} alt="" className='menue-icon' onClick={toggleMenu}/>
         </nav>

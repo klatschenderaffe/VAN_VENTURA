@@ -7,6 +7,7 @@ import Laenderregeln from './components/Laenderregeln/Laenderregeln'
 import Contact from './components/Contact/Contact'
 import Def from './components/Def/Def'
 import Map from './components/Map/Map'
+import Impressum from './components/Impressum/Impressum'
 
 const App = () => {
   return (
@@ -14,7 +15,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <div className="container">
-        <Title subtitle='Suche deinen nächsten Stellplatz' title='Stellplatz sucher'/>
+        <Title subtitle='Suche deinen nächsten Stellplatz' title='Stellplatz Sucher'/>
         <Map/>
 
         <Contact/>
@@ -24,6 +25,7 @@ const App = () => {
 
       </div>
       <Fussleiste />
+      <Impressum/>
     </div>
   )
 }
