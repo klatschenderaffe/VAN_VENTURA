@@ -148,5 +148,11 @@
         "title": "Geisenhausen - 134 Vilsbiburger Straße",
         "coordinats": "48.4722, 12.2726",
         "infos": "134 Vilsbiburger Straße, 84144 Geisenhausen, Germany"
+    },
+    {
+        "id": 26,
+        "title": "Camping Gadmen",
+        "coordinats": "46.7382, 8.3616",
+        "infos": "Sustenstrasse 3863 Gadmen,Switzerland"
     }
 ]
